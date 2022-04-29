@@ -1,6 +1,9 @@
 # ft_printf (Lv.1)
 
 printfの実装（簡易版）
+```
+int	ft_printf(const char *format, ...)
+```
 
 # Usage
 
